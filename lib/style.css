@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body {
+  background-color: #000;
+}
+
+p {
+  margin: 40px auto;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  color: #FF0000;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 0 2px 2px #FF0000, 
+      -2px 5px 0 #FF7F00, 
+      -4px 10px 0 #FFFF00,
+      -8px 15px 0 #00FF00,
+      -12px 20px 0 #0000FF,
+      -16px 25px 0 #4B0082,
+      -20px 30px 0 #9400D3;
+}
+
+
+
+Resources
